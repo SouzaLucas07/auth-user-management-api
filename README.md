@@ -12,11 +12,9 @@ O projeto utiliza **Spring Security, JWT e OAuth2**, segue **arquitetura em cama
 - Spring Data JPA  
 - Spring Security  
 - JWT / OAuth2  
-- PostgreSQL  
 - OpenFeign  
 - Swagger / OpenAPI  
-- JUnit 5  
-- Mockito  
+- JUnit 5   
 - Docker  
 - AWS (EC2 / RDS – nível introdutório)  
 - Maven  
